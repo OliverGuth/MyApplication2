@@ -11,12 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void testUpload()
-    {
-        int a = 1+1;
-        int i = 0;
-    }
-
     private void testOliver()
     {
         int i = 1;
