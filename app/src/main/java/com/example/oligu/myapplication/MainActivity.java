@@ -17,7 +17,12 @@ public class MainActivity extends AppCompatActivity {
         int i = 0;
     }
 
-    private void testtest()
+    private void testOliver()
+    {
+        int i = 1;
+
+    }
+    private void testFabian()
     {
         int i = 1;
 
