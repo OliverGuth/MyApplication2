@@ -11,11 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void testSina()
-    {
-        int i = 1;
-
-    }
     private void testOliver()
     {
         int i = 1;
@@ -26,5 +21,4 @@ public class MainActivity extends AppCompatActivity {
         int i = 1;
 
     }
-
 }
