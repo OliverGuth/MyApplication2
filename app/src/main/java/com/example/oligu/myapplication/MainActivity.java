@@ -10,17 +10,27 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    private void testSina()
-    {
-        int i = 1;
 
-    }
+
     private void testOliver()
     {
         int i = 1;
 
     }
+
     private void testFabian()
+    {
+        int i = 1;
+
+    }
+
+    private void testRobin()
+    {
+        int i = 1;
+
+    }
+
+    private void testSina()
     {
         int i = 1;
 
