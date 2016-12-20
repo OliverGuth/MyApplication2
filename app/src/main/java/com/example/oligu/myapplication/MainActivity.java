@@ -26,4 +26,11 @@ public class MainActivity extends AppCompatActivity {
     {
         int i = 1;
     }
+
+    private void testKatja()
+    {
+        int i = 1;
+
+    }
 }
+
