@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void testOliver()
     {
-        int i = 1;
+        int i = 4;
 
     }
 
